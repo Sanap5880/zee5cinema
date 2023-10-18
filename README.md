@@ -1,6 +1,6 @@
 # <span style="color:red"> Cloning of [Zee5](https://www.zee5.com/) WEBSITE -(Learning Purpose)</span>
 
-# <span style="color:red"> Welcome Here!</span>
+# <span style="color:red"> Welcome </span>
 
 # <span style="color:red"> Cloned Website [Zee5](https://zee5-by-akash-singh.netlify.app/)</span>
 
