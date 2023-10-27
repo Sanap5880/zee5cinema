@@ -4,15 +4,14 @@
 
 Hello Readers,<br>
 It is a Subscription-based OTT (over-the-top) platform to
-access entertainment content. This project is Individually built
-within 5 days
+access entertainment content.
 
 # <span style="color:red"> Tech Stack Used: </span>
 
 I have used HTML, CSS, Javascript, ReactJs, ES6.
 
 Let us share my experience,<br>
-This entire journey of making the project was awesome. I have learned lots of things by applying to the real website and it gave us a lot of confidence. there were some more functionalities that could have been done, the time didn’t permit me to go further. But I will surely improve it during the course of time in future .
+This entire journey of making the project was awesome. I have learned lots of things by applying to the real website and it gave us a lot of confidence. there were some more functionalities that could have been done, the time didn’t permit me to go further. 
 
 ## So journey started from here!
 
